@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">GoFashion</string>
+    <string name="dummy_value">GoFashion</string>
+    <string name="move_activity">Pakaian</string>
+    <string name="move_with_data">Hijab</string>
+
+    <string name="content_text">Sering menggunakan gamis untuk berbagai acara? Mulai dari momen kasual hingga kondangan, gamis siap menjadi pakaian yang bisa diandalkan, lho. Hijabers tidak perlu bingung lagi harus mengenakan apa untuk gaya keseharian. Model gaun panjang ini rasanya pas dipakai untuk acara apapun. </string>
+
+    <string name="content_specs_warna">Biru Dongker</string>
+
+    <string name="content_specs_bahan">moscrepe atau wollycrepe</string>
+
+    <string name="content_specs_model">bawahan berbentuk A-line membuat gamis Marwah set dari brand Tazkia Hijab
+         </string>
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="warna">Warna</string>
+    <string name="bahan">Bahan</string>
+    <string name="model">Model</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Nia Ardiati</string>
+    <string name="buy">Beli</string>
+    <string name="value">Rp.110.000</string>
+    <string name="merk">Hijab Syari Segi Empat</string>
+    <string name="merkk">Gamis Syari Marwah Two Tone</string>
+    <string name="content_tex">Trend fashion makin berkembang sangat pesat di tengah masyarakat. Seperti halnya trend hijab yang dari waktu ke waktu terus berkembang sangat pesat. Tidak seperti dahulu seseorang yang menggunakan hijab dianggap kuno dan ketinggalan jaman. Namun pakaian yang wajib dikenakan wanita muslim kini menjadi poros mode yang diikuti banyak orang. Menggunakan hijab kini menjadi trend baik kalangan anak-anak hingga orang tua. Hijab kini bukan sekedar alat yang digunakan dalam menutup aurat saja namun telah memasuki ranah dunia fashion. Sekarang ini banyak pula desainer terkenal yang merancang hijab dengan sentuhan gaya masa kini yang tentunya terkesan mewah, anggun dan sangat cantik. Dalam peragaan busana baik itu london fashion week dan paris fashion week kini lebih menonjolkan pakaian hijab yang dipamerkan. Hal ini memang terbukti jika pengaruh hijab saat kuat di dunia. </string>
+
+
+    <string name="content_specs_w">Abu-Abu Tua</string>
+
+    <string name="content_specs_b">Wolfis</string>
+
+    <string name="content_specs_m">jilbab segiempat jumbo
+         </string>
+    <string name="stoc">Stock hanya 10 buah</string>
+    <string name="specificatio">Spesifikasi</string>
+    <string name="w">Warna</string>
+    <string name="b">Bahan</string>
+    <string name="m">Model</string>
+    <string name="vallue">Rp.40.000</string>
+    <string name="data_received">data_received</string>
+</resources>
